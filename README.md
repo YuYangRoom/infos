@@ -1,3 +1,4 @@
+#欢迎光临
 # infos
 installation steps:
 1. clone git repository to local
